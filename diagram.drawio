@@ -1,0 +1,34 @@
+<mxfile host="65bd71144e">
+    <diagram id="iNn1aBiR2rNRGkbFMaLR" name="Page-1">
+        <mxGraphModel dx="909" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#3700CC;fontColor=#ffffff;fillColor=#2986FF;" parent="1" vertex="1">
+                    <mxGeometry x="70" y="50" width="720" height="720" as="geometry"/>
+                </mxCell>
+                <mxCell id="mk0CsofEJlwDzGqxFuwQ-2" value="Square that holds the man. &lt;br&gt;Maybe instead of a hang man, we'll just have it build Rumplestiltskin" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="1">
+                    <mxGeometry x="100" y="140" width="270" height="330" as="geometry"/>
+                </mxCell>
+                <mxCell id="mk0CsofEJlwDzGqxFuwQ-3" value="Word Spaces&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="1">
+                    <mxGeometry x="100" y="500" width="270" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="mk0CsofEJlwDzGqxFuwQ-4" value="Incorrect letter list" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="1">
+                    <mxGeometry x="405" y="150" width="330" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="mk0CsofEJlwDzGqxFuwQ-5" value="Clickable letters" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
+                    <mxGeometry x="400" y="220" width="340" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="mk0CsofEJlwDzGqxFuwQ-6" value="Header" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="140" y="60" width="600" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="mk0CsofEJlwDzGqxFuwQ-7" value="You win (or lose)!" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="1">
+                    <mxGeometry x="90" y="640" width="660" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="mk0CsofEJlwDzGqxFuwQ-8" value="Animated space background&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#6F0000;fontColor=#ffffff;fillColor=#6666FF;" vertex="1" parent="1">
+                    <mxGeometry x="380" y="290" width="370" height="340" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
